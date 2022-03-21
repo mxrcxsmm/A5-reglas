@@ -6,7 +6,7 @@ Regla Nº2
 - En el selector header hay que poner una altura de 100vh, una imagen de fondo que se llama Fast and furious 9, una posición de fondo centrada y una talla de fondo en cover.
 
 Regla Nº3
-- En el header h1, hay que poner el color de letra blanca, con un margen de 0, un relleno de 0 y 20% y el tamaño de fuente de 50px.
+- En el selector header h1, hay que poner el color de letra blanca, con un margen de 0, un relleno de 0 y 20% y el tamaño de fuente de 50px.
 
 Regla Nº4
 - El selector main tiene que tener tanto el padding-left como el right en 20px
