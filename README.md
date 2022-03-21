@@ -9,19 +9,19 @@ Regla Nº3
 - En el header h1, hay que poner el color de letra blanca, con un margen de 0, un relleno de 0 y 20% y el tamaño de fuente de 50px.
 
 Regla Nº4
-- El main tiene que tener tanto el padding-left como el right en 20px
+- El selector main tiene que tener tanto el padding-left como el right en 20px
 
 Regla Nº5
-- El main p, tiene que tener el tamaño de fuente en 20px
+- El selector main p, tiene que tener el tamaño de fuente en 20px
 
 Regla Nº6
 - El iframe de los vídeos tiene que tener la anchura del 100% y la altura de 400px.
 
 Regla Nº7
-- En la parte del spoiler, tiene la familia de fuente Noto Sans en san-serif.
+- En la parte del selector spoiler, tiene la familia de fuente Noto Sans en san-serif.
 
 Regla Nº8
-- El reparto solo tiene la familia de fuente en Lobster y cursiva.
+- El selector reparto solo tiene la familia de fuente en Lobster y cursiva.
 
 Regla Nº9
 - Todas las imágenes tienen la anchura del 100%
@@ -36,10 +36,10 @@ Regla Nº12
 - El responsive tiene el máximo de anchura de 800px.
 
 Regla Nº13
-- El header h1 del responsive, tiene que tener un relleno de 0 y 1% y el tamaño de fuente de 40px.
+- El selector header h1 del responsive, tiene que tener un relleno de 0 y 1% y el tamaño de fuente de 40px.
 
 Regla Nº14
-- El main del responsive tiene tanto el padding izquierdo como derecho en un 1%.
+- El selector main del responsive tiene tanto el padding izquierdo como derecho en un 1%.
 
 Regla Nº15
-- Tanto el main p como el main h1, tienen el mismo tamaño de fuente, 16px.
+- Tanto el selector main p como el selector main h1, tienen el mismo tamaño de fuente, 16px.
